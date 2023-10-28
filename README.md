@@ -5,18 +5,32 @@ Input image
 
 ![2023-10-27_05-54-40](https://github.com/mscussiatto/yolo-grow/assets/108452459/3b0692e1-6ff7-45cd-b70a-5d4cb907f8a4)
 
-Merged seg masks
+Segmentation results
 
-![salanova_eulers](https://github.com/mscussiatto/yolo-grow/assets/108452459/f0ace981-ece4-44cb-a1df-27043ffbd592)
-
-Individual seg mask
-
-![salanova_euler_0](https://github.com/mscussiatto/yolo-grow/assets/108452459/8f5f55e5-a1d7-4d18-933d-745193df0c35)
+![2023-10-27_05-54-40](https://github.com/mscussiatto/yolo-grow/assets/108452459/f8bac703-9b27-4b1f-94d0-468c59f2bd50)
 
 Cropped results from CLI
 
-![vlc-record-2023-10-27-15h21m18s-timelapse_final2](https://github.com/mscussiatto/yolo-grow/assets/108452459/6200186a-c22d-41ba-a36b-e02aa5148453)
+![1](https://github.com/mscussiatto/yolo-grow/assets/108452459/843e1e07-4afa-4f08-95bd-3d5b232740a2)
 
-Final Objective: RGB from cropped result
+Final Objective: RGB mask from cropped result
 
-![crop_seg](https://github.com/mscussiatto/yolo-grow/assets/108452459/863a79a6-f6da-44b4-a269-123bd110ce34)
+![1_RGB](https://github.com/mscussiatto/yolo-grow/assets/108452459/0164eee2-aecb-4211-88db-c80477c0754f)
+
+
+-----------
+#Binary mask work
+
+Merged seg masks
+
+![salanova_eulers](https://github.com/mscussiatto/yolo-grow/assets/108452459/695f126a-64f9-48e6-b437-72332b7ae93d)
+
+
+Individual seg mask
+
+![salanova_euler_24](https://github.com/mscussiatto/yolo-grow/assets/108452459/1e741c3f-4f14-42a2-baaa-2dfac964e582)
+
+
+
+
+
