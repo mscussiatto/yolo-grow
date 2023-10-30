@@ -44,7 +44,7 @@ for result in results:
           contour_img[np.where(contour_mask)] = ori_img[np.where(contour_mask)]
 
           # Set the background of the contour_img to white
-          contour_img[contour_img == 0] = 255
+          #contour_img[contour_img == 0] = 255
           contour_roi = contour_img[y:y+h, x:x+w]
           #contour_img[:h, :w] = contour_roi
           # Save the contour as an individual image with the size in the filename
